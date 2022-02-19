@@ -1,4 +1,4 @@
-projeyi çalıştırmak için:
+# Projeyi çalıştırmak için:
 
 /catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/launch 
 klasörüne "proje2.launch" dosyası atılmalı
